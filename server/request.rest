@@ -1,0 +1,6 @@
+
+###
+GET http://localhost:5080/api/rooms
+
+### 
+POST http://localhost:5080/api/rooms
